@@ -1,0 +1,1101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e89196e2-dd83-4fff-be35-6be15d75724f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1740">
+              <caret line="232" selection-start-line="232" selection-end-line="232" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/CommentController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="518">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Teacher/CommentController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="541">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Student/CommentController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="25" column="63" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/student/comment/comment.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+              <folding>
+                <element signature="e#2842#2876#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/teacher/comment/comment.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="518">
+              <caret line="162" lean-forward="true" selection-start-line="162" selection-end-line="162" />
+              <folding>
+                <element signature="e#2769#2803#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/layouts/student_layout/student_sidebar.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="518">
+              <caret line="310" column="32" selection-start-line="310" selection-start-column="32" selection-end-line="310" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="XSLT Stylesheet" />
+        <option value="Blade" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>view</find>
+      <find>session</find>
+      <find>product</find>
+      <find>products</find>
+      <find>addProduct</find>
+      <find>addAttribute</find>
+      <find>countries</find>
+      <find>order</find>
+      <find>listing</find>
+      <find>Add</find>
+      <find>addProdcut</find>
+      <find>$cart</find>
+      <find>users</find>
+      <find>orders</find>
+      <find>check-email</find>
+      <find>innerHTML</find>
+      <find>viewProducts</find>
+      <find>cartCount</find>
+      <find>select2</find>
+      <find>Teacher</find>
+      <find>$teacherDetails</find>
+      <find>$adminDetails</find>
+      <find>$product</find>
+      <find>add-question</find>
+      <find>questionmcq</find>
+      <find>reviews-form</find>
+      <find>niceSelect</find>
+      <find>contact</find>
+      <find>search</find>
+      <find>search-box</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Product</replace>
+      <replace>Products</replace>
+      <replace>$product</replace>
+      <replace>images</replace>
+      <replace>shipping_charges</replace>
+      <replace>Edit</replace>
+      <replace>$wishList</replace>
+      <replace>Student</replace>
+      <replace>$studentDetails</replace>
+      <replace>$teacherDetails</replace>
+      <replace>$exam</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Frontend/IndexController.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2021_01_11_190325_create_ratings_table.php" />
+        <option value="$PROJECT_DIR$/resources/views/frontend/index.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Teacher/AttendanceController.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/teacher/add_teacher.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/frontend/contact/contact.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Frontend/ContactController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/FinalResultController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/TeacherController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Teacher/TeacherController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Student/StudentController.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2021_01_14_213531_create_comments_table.php" />
+        <option value="$PROJECT_DIR$/app/Models/Post.php" />
+        <option value="$PROJECT_DIR$/resources/views/frontend/teacher/teacher.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/frontend/teacher/teacher_single.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/frontend/teacher/search.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Frontend/TeacherController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Frontend/LibraryController.php" />
+        <option value="$PROJECT_DIR$/resources/views/frontend/library/single_library.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/frontend/library/library.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/frontend/library/search.blade.php" />
+        <option value="$PROJECT_DIR$/public/front/js/main.js" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Frontend/PostController.php" />
+        <option value="$PROJECT_DIR$/resources/views/frontend/blog/blog.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/frontend/blog/search.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/frontend/blog/single_blog.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/student_layout/student_header.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/teacher_layout/teacher_header.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/admin_layout/admin_header.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/front_layout/front_header.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/front_layout/front_footer.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/front_layout/front_layout.blade.php" />
+        <option value="$PROJECT_DIR$/app/Models/Rating.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/review/review.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/teacher/review/review.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/ReviewController.php" />
+        <option value="$PROJECT_DIR$/resources/views/student/review/review.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Student/ReviewController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Teacher/ReviewController.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/admin_layout/admin_sidebar.blade.php" />
+        <option value="$PROJECT_DIR$/app/Models/Comment.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/teacher_layout/teacher_sidebar.blade.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/CommentController.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/comment/comment.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Teacher/CommentController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Student/CommentController.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/student_layout/student_sidebar.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/student/comment/comment.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/teacher/comment.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/teacher/comment/comment.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/brian2694/laravel-toastr" />
+      <path value="$PROJECT_DIR$/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/php-enum" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/maennchen/zipstream-php" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/vendor/maatwebsite/excel" />
+      <path value="$PROJECT_DIR$/vendor/phenx/php-svg-lib" />
+      <path value="$PROJECT_DIR$/vendor/phenx/php-font-lib" />
+      <path value="$PROJECT_DIR$/vendor/dompdf/dompdf" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-dompdf" />
+      <path value="$PROJECT_DIR$/vendor/sabberworm/php-css-parser" />
+      <path value="$PROJECT_DIR$/vendor/milon/barcode" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="100" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="univsertiy_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="univsertiy_management" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="univsertiy_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="univsertiy_management" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="univsertiy_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="univsertiy_management" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="univsertiy_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="univsertiy_management" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="univsertiy_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="univsertiy_management" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="Front" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="univsertiy_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="univsertiy_management" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="univsertiy_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="univsertiy_management" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="univsertiy_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="univsertiy_management" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="teacher" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../protfolio" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\xampp\htdocs\univsertiy_management\resources\views\admin\department" />
+      <recent name="E:\xampp\htdocs\laravel\ecomstore\resources\views\admin\sections" />
+      <recent name="E:\xampp\htdocs\laravel\ecomstore\resources\views\admin\users" />
+      <recent name="E:\xampp\htdocs\laravel\ecomstore\resources\views\products" />
+      <recent name="E:\xampp\htdocs\laravel\ecomstore\resources\views\admin\pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\xampp\htdocs\univsertiy_management\resources\views\teacher" />
+      <recent name="E:\xampp\htdocs\laravel\ecomstore\resources\views\orders" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e89196e2-dd83-4fff-be35-6be15d75724f" name="Default Changelist" comment="" />
+      <created>1599923400835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599923400835</updated>
+      <workItem from="1599923410095" duration="361000" />
+      <workItem from="1599959878284" duration="7369000" />
+      <workItem from="1599968870809" duration="705000" />
+      <workItem from="1599970701405" duration="46000" />
+      <workItem from="1601545121020" duration="157000" />
+      <workItem from="1601545553804" duration="43000" />
+      <workItem from="1601545599508" duration="291000" />
+      <workItem from="1601546759688" duration="4000000" />
+      <workItem from="1601555692398" duration="9309000" />
+      <workItem from="1601632259878" duration="5638000" />
+      <workItem from="1601640464711" duration="8871000" />
+      <workItem from="1601685447423" duration="5109000" />
+      <workItem from="1601717844803" duration="1408000" />
+      <workItem from="1601730389525" duration="6491000" />
+      <workItem from="1601773625949" duration="10326000" />
+      <workItem from="1601803586773" duration="2970000" />
+      <workItem from="1601808814595" duration="1793000" />
+      <workItem from="1601816118081" duration="7382000" />
+      <workItem from="1601859994213" duration="8349000" />
+      <workItem from="1601887946090" duration="5480000" />
+      <workItem from="1601899751382" duration="11845000" />
+      <workItem from="1601945775767" duration="6799000" />
+      <workItem from="1601972408452" duration="6884000" />
+      <workItem from="1602031884925" duration="7869000" />
+      <workItem from="1602057962840" duration="8697000" />
+      <workItem from="1602072861055" duration="7523000" />
+      <workItem from="1602118991323" duration="4884000" />
+      <workItem from="1602144611103" duration="9093000" />
+      <workItem from="1602159297732" duration="9469000" />
+      <workItem from="1602207373151" duration="2619000" />
+      <workItem from="1602252350127" duration="7730000" />
+      <workItem from="1602315746678" duration="10709000" />
+      <workItem from="1602332208478" duration="3052000" />
+      <workItem from="1602371930602" duration="13915000" />
+      <workItem from="1602419403957" duration="2452000" />
+      <workItem from="1602466799196" duration="7251000" />
+      <workItem from="1602504153583" duration="9622000" />
+      <workItem from="1602550051454" duration="8284000" />
+      <workItem from="1602591993306" duration="5479000" />
+      <workItem from="1602634757410" duration="5933000" />
+      <workItem from="1602678149496" duration="4576000" />
+      <workItem from="1602763455718" duration="7887000" />
+      <workItem from="1602812199173" duration="513000" />
+      <workItem from="1602814134419" duration="6894000" />
+      <workItem from="1602844836285" duration="2677000" />
+      <workItem from="1602850294464" duration="6002000" />
+      <workItem from="1602926961642" duration="4887000" />
+      <workItem from="1602935890708" duration="4232000" />
+      <workItem from="1602944846019" duration="2127000" />
+      <workItem from="1602978933113" duration="7861000" />
+      <workItem from="1603017068174" duration="2063000" />
+      <workItem from="1603024855092" duration="7197000" />
+      <workItem from="1603064698159" duration="6158000" />
+      <workItem from="1603101113197" duration="2844000" />
+      <workItem from="1603108645811" duration="1243000" />
+      <workItem from="1603116587386" duration="677000" />
+      <workItem from="1603151512370" duration="5455000" />
+      <workItem from="1603189803758" duration="1389000" />
+      <workItem from="1603194631095" duration="9221000" />
+      <workItem from="1603260716803" duration="5866000" />
+      <workItem from="1603280997528" duration="10926000" />
+      <workItem from="1603328353874" duration="3015000" />
+      <workItem from="1603351659548" duration="12298000" />
+      <workItem from="1603418975234" duration="12771000" />
+      <workItem from="1603443801345" duration="679000" />
+      <workItem from="1603453649316" duration="8797000" />
+      <workItem from="1603532531665" duration="2735000" />
+      <workItem from="1603541977675" duration="5113000" />
+      <workItem from="1603620976088" duration="3149000" />
+      <workItem from="1603627224494" duration="9657000" />
+      <workItem from="1603691984316" duration="3784000" />
+      <workItem from="1603705203448" duration="5112000" />
+      <workItem from="1603712879788" duration="8153000" />
+      <workItem from="1603782291039" duration="10130000" />
+      <workItem from="1603802160181" duration="478000" />
+      <workItem from="1603807318502" duration="380000" />
+      <workItem from="1603807815514" duration="45000" />
+      <workItem from="1603808231503" duration="1634000" />
+      <workItem from="1603872503155" duration="379000" />
+      <workItem from="1603935240669" duration="2105000" />
+      <workItem from="1603979450761" duration="3098000" />
+      <workItem from="1604021880523" duration="2176000" />
+      <workItem from="1604024944825" duration="5042000" />
+      <workItem from="1604048335065" duration="6346000" />
+      <workItem from="1604064374069" duration="5898000" />
+      <workItem from="1604122835143" duration="5389000" />
+      <workItem from="1604139622774" duration="2652000" />
+      <workItem from="1604144885722" duration="9335000" />
+      <workItem from="1604221053872" duration="3473000" />
+      <workItem from="1604231457589" duration="6922000" />
+      <workItem from="1604242117333" duration="2024000" />
+      <workItem from="1604296201558" duration="4583000" />
+      <workItem from="1604308749054" duration="4130000" />
+      <workItem from="1604317549472" duration="10487000" />
+      <workItem from="1604376002148" duration="2421000" />
+      <workItem from="1604389825621" duration="4323000" />
+      <workItem from="1604403947960" duration="6487000" />
+      <workItem from="1604556707427" duration="5822000" />
+      <workItem from="1604631628926" duration="4850000" />
+      <workItem from="1604637330683" duration="3554000" />
+      <workItem from="1604655865530" duration="1984000" />
+      <workItem from="1604663225405" duration="8214000" />
+      <workItem from="1604737699445" duration="12189000" />
+      <workItem from="1604802356169" duration="2757000" />
+      <workItem from="1604824621993" duration="2638000" />
+      <workItem from="1604842292856" duration="5424000" />
+      <workItem from="1604894785928" duration="7826000" />
+      <workItem from="1604916447468" duration="2698000" />
+      <workItem from="1604922912548" duration="3111000" />
+      <workItem from="1604998153489" duration="1759000" />
+      <workItem from="1605017813120" duration="4515000" />
+      <workItem from="1605090069532" duration="599000" />
+      <workItem from="1605094749115" duration="8459000" />
+      <workItem from="1605153194162" duration="5834000" />
+      <workItem from="1605169199969" duration="7693000" />
+      <workItem from="1605181869754" duration="8430000" />
+      <workItem from="1605234346317" duration="3951000" />
+      <workItem from="1605268826123" duration="7723000" />
+      <workItem from="1605327793593" duration="4949000" />
+      <workItem from="1605515754735" duration="6525000" />
+      <workItem from="1605527390822" duration="9545000" />
+      <workItem from="1605602225165" duration="4737000" />
+      <workItem from="1605620074398" duration="4859000" />
+      <workItem from="1605690110525" duration="1003000" />
+      <workItem from="1605708592642" duration="603000" />
+      <workItem from="1605763099174" duration="1047000" />
+      <workItem from="1605773958925" duration="6344000" />
+      <workItem from="1605785558280" duration="2345000" />
+      <workItem from="1605800878755" duration="795000" />
+      <workItem from="1605837629718" duration="2046000" />
+      <workItem from="1605888260395" duration="595000" />
+      <workItem from="1605932715601" duration="4196000" />
+      <workItem from="1605960176807" duration="10322000" />
+      <workItem from="1606021785204" duration="2528000" />
+      <workItem from="1606031324195" duration="7793000" />
+      <workItem from="1606055242730" duration="3555000" />
+      <workItem from="1606116180106" duration="10453000" />
+      <workItem from="1606131588446" duration="4441000" />
+      <workItem from="1606146191026" duration="1284000" />
+      <workItem from="1606199646289" duration="97000" />
+      <workItem from="1606213784045" duration="3595000" />
+      <workItem from="1606220042457" duration="1763000" />
+      <workItem from="1606226400231" duration="1975000" />
+      <workItem from="1606297337099" duration="53000" />
+      <workItem from="1607614608774" duration="1409000" />
+      <workItem from="1607686899405" duration="12835000" />
+      <workItem from="1607737562960" duration="3552000" />
+      <workItem from="1607766267574" duration="677000" />
+      <workItem from="1607773351067" duration="9902000" />
+      <workItem from="1607868359771" duration="2893000" />
+      <workItem from="1607952118211" duration="606000" />
+      <workItem from="1608033617788" duration="563000" />
+      <workItem from="1608441774575" duration="4463000" />
+      <workItem from="1608457111772" duration="4343000" />
+      <workItem from="1608464465263" duration="13065000" />
+      <workItem from="1608531666450" duration="942000" />
+      <workItem from="1608533039254" duration="8887000" />
+      <workItem from="1608558371983" duration="6870000" />
+      <workItem from="1608618587838" duration="11683000" />
+      <workItem from="1608700731749" duration="260000" />
+      <workItem from="1608713883660" duration="696000" />
+      <workItem from="1608784654303" duration="6816000" />
+      <workItem from="1608798328622" duration="6053000" />
+      <workItem from="1608819008126" duration="8450000" />
+      <workItem from="1608864584538" duration="5054000" />
+      <workItem from="1608870646686" duration="5722000" />
+      <workItem from="1608888167817" duration="4795000" />
+      <workItem from="1608896793428" duration="2238000" />
+      <workItem from="1608909346142" duration="1595000" />
+      <workItem from="1608983105525" duration="2661000" />
+      <workItem from="1608987079382" duration="1383000" />
+      <workItem from="1608991559975" duration="7418000" />
+      <workItem from="1609044424263" duration="1272000" />
+      <workItem from="1609046072257" duration="5917000" />
+      <workItem from="1609059709424" duration="5238000" />
+      <workItem from="1609070286115" duration="3819000" />
+      <workItem from="1609132206144" duration="5236000" />
+      <workItem from="1609148904831" duration="4639000" />
+      <workItem from="1609156296439" duration="5859000" />
+      <workItem from="1609166776683" duration="3945000" />
+      <workItem from="1609230014509" duration="1653000" />
+      <workItem from="1609236951398" duration="2669000" />
+      <workItem from="1609247913295" duration="8306000" />
+      <workItem from="1609323187624" duration="3005000" />
+      <workItem from="1609330134034" duration="6753000" />
+      <workItem from="1609404850502" duration="7416000" />
+      <workItem from="1609415565578" duration="4689000" />
+      <workItem from="1609426073198" duration="5191000" />
+      <workItem from="1609469213581" duration="3665000" />
+      <workItem from="1609574412626" duration="9405000" />
+      <workItem from="1609588957535" duration="4350000" />
+      <workItem from="1609598466439" duration="3387000" />
+      <workItem from="1609663695046" duration="4553000" />
+      <workItem from="1609675009218" duration="3562000" />
+      <workItem from="1609747784683" duration="6197000" />
+      <workItem from="1609762194888" duration="3131000" />
+      <workItem from="1610031038917" duration="3790000" />
+      <workItem from="1610073672438" duration="5574000" />
+      <workItem from="1610101923273" duration="2363000" />
+      <workItem from="1610107125006" duration="9733000" />
+      <workItem from="1610172167202" duration="6198000" />
+      <workItem from="1610184183444" duration="7299000" />
+      <workItem from="1610194073802" duration="2778000" />
+      <workItem from="1610200602279" duration="6338000" />
+      <workItem from="1610258161587" duration="4477000" />
+      <workItem from="1610267111500" duration="4556000" />
+      <workItem from="1610281152996" duration="3096000" />
+      <workItem from="1610287839202" duration="5633000" />
+      <workItem from="1610331349980" duration="3148000" />
+      <workItem from="1610339409531" duration="2252000" />
+      <workItem from="1610345743058" duration="3814000" />
+      <workItem from="1610366263478" duration="8625000" />
+      <workItem from="1610378371840" duration="3318000" />
+      <workItem from="1610460586544" duration="1418000" />
+      <workItem from="1610539208267" duration="8584000" />
+      <workItem from="1610637975245" duration="3963000" />
+      <workItem from="1610682788414" duration="5021000" />
+      <workItem from="1610705837851" duration="3391000" />
+      <workItem from="1610787618424" duration="6050000" />
+      <workItem from="1610799612613" duration="79000" />
+      <workItem from="1610804858941" duration="3411000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1084177000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1651671" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="DB Browser" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32914925" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="DB Execution Console" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49807197" weight="0.46582985" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50192803" side_tool="true" weight="0.42956764" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21915168" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="DB Browser" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="DB Execution Console" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49871466" weight="0.42956764" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5012854" side_tool="true" weight="0.42956764" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Models/Subject.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/TeacherController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1967">
+          <caret line="161" column="18" lean-forward="true" selection-start-line="161" selection-start-column="18" selection-end-line="161" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Teacher/TeacherController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="145" column="60" lean-forward="true" selection-start-line="145" selection-start-column="60" selection-end-line="145" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Student/StudentController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2599">
+          <caret line="136" column="14" selection-start-line="136" selection-start-column="14" selection-end-line="136" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/admin_layout/admin_layout.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="146" column="23" selection-start-line="146" selection-start-column="23" selection-end-line="146" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2021_01_14_213531_create_comments_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="16" column="102" selection-start-line="16" selection-start-column="102" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend/teacher/teacher.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend/teacher/search.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend/teacher/teacher_single.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="48" column="31" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Frontend/TeacherController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend/library/single_library.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend/library/library.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend/library/search.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/front/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="48" column="7" lean-forward="true" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend/blog/single_blog.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend/blog/blog.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend/blog/search.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Frontend/PostController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="90" column="35" selection-start-line="90" selection-start-column="24" selection-end-line="90" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Frontend/LibraryController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="98" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/student_layout/student_header.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/teacher_layout/teacher_header.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/admin_layout/admin_header.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/front/gb.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/front_layout/front_layout.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/front_layout/front_footer.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/front_layout/front_header.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/admins/add_admin.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/book/book.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1702">
+          <caret line="71" column="44" selection-start-line="71" selection-start-column="44" selection-end-line="71" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/SubjectController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1184">
+          <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/DepartmentController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/student/review/review.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-747">
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Student/ReviewController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/teacher/review/review.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2024">
+          <caret line="88" column="39" selection-start-line="88" selection-start-column="39" selection-end-line="88" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Teacher/ReviewController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Rating.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#30#84#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/ReviewController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/sections/sections.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="60" selection-end-line="172" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/review/review.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="63" column="50" lean-forward="true" selection-start-line="63" selection-start-column="50" selection-end-line="63" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/admin_layout/admin_sidebar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="551" lean-forward="true" selection-start-line="551" selection-end-line="551" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Comment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="232" selection-start-line="232" selection-end-line="232" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/CommentController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/comment/comment.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="80" column="35" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/teacher_layout/teacher_sidebar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="350" column="70" lean-forward="true" selection-start-line="350" selection-start-column="70" selection-end-line="350" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Teacher/CommentController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/student_layout/student_sidebar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="310" column="32" selection-start-line="310" selection-start-column="32" selection-end-line="310" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Student/CommentController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="25" column="63" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/student/comment/comment.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+          <folding>
+            <element signature="e#2842#2876#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/teacher/comment.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="52" selection-end-line="162" />
+          <folding>
+            <element signature="e#2769#2803#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/teacher/comment/comment.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="162" lean-forward="true" selection-start-line="162" selection-end-line="162" />
+          <folding>
+            <element signature="e#2769#2803#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

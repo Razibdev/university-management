@@ -1,0 +1,127 @@
+@extends('layouts.admin_layout.admin_layout')
+{{--@push('css')--}}
+   {{----}}
+
+{{--@endpush--}}
+@section('content')
+    <div class="content-wrapper">
+        <!-- Content Header (Page header) -->
+        <section class="content-header">
+            <div class="container-fluid">
+                <div class="row mb-2">
+                    <div class="col-sm-6">
+                        <h1>Department</h1>
+                        <div class="panel">
+                            <div class="panel-body">
+                                <div class="wait" id="wait">
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6">
+                        <ol class="breadcrumb float-sm-right">
+                            <li class="breadcrumb-item"><a href="#">Home</a></li>
+                            <li class="breadcrumb-item active">Department</li>
+                        </ol>
+                    </div>
+                </div>
+            </div><!-- /.container-fluid -->
+        </section>
+
+        <!-- Main content -->
+        <section class="content">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-12">
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Department Table</h3>
+                                <div class="text-right">
+                                    <a href="{{url('admin/add-department')}}" class="btn btn-success pull-right">Add Department</a>
+
+                                </div>
+                            </div>
+                            <!-- /.card-header -->
+                            <div class="card-body">
+                                <table id="sections" class="table table-bordered table-striped">
+                                    <thead>
+                                    <tr>
+                                        <th>ID</th>
+                                        <th>Name</th>
+                                        <th>Action</th>
+                                    </tr>
+                                    </thead>
+                                    <tbody>
+                                    @foreach($departments as $department)
+                                        <tr>
+                                            <td>{{$department->id}}</td>
+                                            <td>{{$department->name}}</td>
+                                            <td>   <a title="Edit Department" class="btn btn-success" href="{{url('/admin/edit-department/'.$department->id)}}"><i class="fas fa-edit"></i></a>
+                                                <a title="Delete Department" href="javascript:void(0)" name="department" data-id="{{$department->id}}" class="btn btn-danger confirmDelete"><i class="fas fa-trash"></i></a>
+                                              </td>
+                                        </tr>
+                                    @endforeach
+                                    </tbody>
+                                </table>
+                            </div>
+                            <!-- /.card-body -->
+                        </div>
+                        <!-- /.card -->
+                    </div>
+                    <!-- /.col -->
+                </div>
+                <!-- /.row -->
+            </div>
+            <!-- /.container-fluid -->
+        </section>
+        <!-- /.content -->
+    </div>
+@endsection
+
+@push('js')
+
+    <script>
+
+        $(document).ready(function () {
+
+            $("#sections").DataTable({
+                "responsive": true,
+                "autoWidth": false,
+
+            });
+        });
+
+        $(document).ready(function () {
+            $(document).on('click', '.confirmDelete', function () {
+
+                let name = $(this).attr('name');
+                let id = $(this).data('id');
+                Swal.fire({
+                    title: 'Are you sure?',
+                    text: "You won't be able to revert this!",
+                    icon: 'warning',
+                    showCancelButton: true,
+                    confirmButtonColor: '#3085d6',
+                    cancelButtonColor: '#d33',
+                    confirmButtonText: 'Yes, delete it!'
+                }).then((result) => {
+                    if (result.isConfirmed) {
+                        Swal.fire(
+                            'Deleted!',
+                            'Your file has been deleted.',
+                            'success'
+                        );
+                        window.location.href = "/admin/delete-"+name+"/"+id;
+                    }
+                });
+            });
+        });
+
+
+
+
+    </script>
+@endpush
